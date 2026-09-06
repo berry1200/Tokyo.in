@@ -1,0 +1,6 @@
+{
+  "name": "Visit Tokyo - Interactive Travel Experience",
+  "description": "An interactive motion design travel experience inspired by Tokyo and traditional Torii shrines, featuring 3D physics-based hanging wind chimes with sound, smooth scroll animations, and curated tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
